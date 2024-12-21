@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198241456872",
+    "project_id": "studentapp-cb4eb",
+    "storage_bucket": "studentapp-cb4eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198241456872:android:3cf005f2b9f06fd5dc2f5d",
+        "android_client_info": {
+          "package_name": "com.sultan.student_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUIIAx0ymIGqRMj2wHavMFpEHHDEnuhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
